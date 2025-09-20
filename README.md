@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am an ICT Engineering student at LAB University of Applied Sciences. I use this GitHub profile to store and share some programming exercises with my teachers and to collaborate with other students. In the future I might as well use this profile for my own projects.
 <!--
 **HansSalosensaari/HansSalosensaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
